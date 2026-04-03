@@ -2,7 +2,7 @@
 
 Retrieve current time and time zone information for various locations.
 
-Forked from https://github.com/reticulatingspline/WorldTime
+Forked from [reticulatingspline/WorldTime](https://github.com/reticulatingspline/WorldTime).
 
 ## Install
 
@@ -46,4 +46,16 @@ Enable Google [Geocoding](https://console.cloud.google.com/apis/library/geocodin
 @wt unset -- Removes your current ident@host
 ```
 
-![Python versions](https://img.shields.io/badge/Python-version-blue) ![Supported Python versions](https://img.shields.io/badge/3.11%2C%203.12%2C%203.13-blue.svg) [![Code style: black](https://img.shields.io/badge/code%20style-black-black)](https://github.com/psf/black) ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) [![CodeQL](https://github.com/Alcheri/WorldTime/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Alcheri/WorldTime/actions/workflows/github-code-scanning/codeql) [![Lint](https://github.com/Alcheri/WortldTime/actions/workflows/lint.yml/badge.svg)](https://github.com/Alcheri/WorldTime/actions/workflows/lint.yml)
+## Licensing
+
+This project contains code originally published under the MIT Licence by the
+upstream author. The original licence text is preserved verbatim in
+`LICENSE.txt` as required by the MIT Licence.
+
+All modifications, additions, and ongoing maintenance performed by Barry
+Suridge are licensed under the terms described in `LICENCE.md`.
+
+In summary:
+
+- `LICENSE.txt` — original upstream MIT Licence (unchanged)
+- `LICENCE.md` — licence applying to Barry Suridge’s contributions
