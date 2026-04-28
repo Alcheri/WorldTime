@@ -11,7 +11,7 @@ WorldTime: look up current time and timezone info for various locations
 import supybot
 import supybot.world as world
 
-__version__ = "2024.12.26+git"
+__version__ = ""
 
 __author__ = supybot.Author("reticulatingspline", "spline", "")
 __maintainer__ = getattr(
